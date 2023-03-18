@@ -76,4 +76,5 @@ From the root of the `data-structures-and-algorithms/python` folder, execute the
 - **Run in watch mode** - `ptw` or `pytest-watch`
 
 ## Table of Contents
+
 - Code Challenge 01: List Reverse [Link](/docs/list_reverse/README.md)
