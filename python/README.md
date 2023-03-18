@@ -77,4 +77,4 @@ From the root of the `data-structures-and-algorithms/python` folder, execute the
 
 ## Table of Contents
 
-- Code Challenge 01: List Reverse [Link](/docs/list_reverse/README.md)
+- Code Challenge 01: List Reverse [Link](./docs/list_reverse/README.md)
